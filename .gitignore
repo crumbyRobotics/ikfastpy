@@ -1,3 +1,5 @@
 build/*
 ikfastpy.cpp
 ikfastpy.so
+*.so
+__pycache__/
